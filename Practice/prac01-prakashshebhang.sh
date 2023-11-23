@@ -49,11 +49,19 @@ echo -e printing the value of a ${a}  ${b}
 
 echo -e printing the value of  $c       # ${b}  $b : both of them are same.
 
+<<commentdy
+datevale=$(date +%F)
+noofsession=$(who|wc -l)
+echo -e "Good Morning , Todays date is \e[33m $datevale \e[0m" 
+echo -e "Total Number Of Connected Sessions : \e[33m $noofsession \e[0m"
+commentdy
 
-DATE=$(date +%F)
-NO_OF_SESSIONS=$(who|wc -l)
-echo -e "Good Morning , Todays date is \e[33m $DATE \e[0m" 
-echo -e "Total Number Of Connected Sessions : \e[33m $NO_OF_SESSIONS \e[0m"
- 
+
+# topic for  special characters ----------
+echo $0   # Prints Script Name 
+echo $#   # Prints the overall arguments used in the script 
+echo $?   # This prints the exit code of the last command
+echo $*   # Prints all the arguments used.
+echo $@   # Prints all the arguments used.
 
 
