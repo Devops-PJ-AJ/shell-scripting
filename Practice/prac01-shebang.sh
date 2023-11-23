@@ -18,3 +18,4 @@ echo Line3
 
 echo Line4
 echo Line5
+echo Line6 
