@@ -1,0 +1,18 @@
+Action=$1
+echo "Given input is : $Action"
+if [ "$Action" ==  "start" ] ; then
+    echo -e "\e[32mcontrol is going to true condition\e[0m"
+    exit 0;
+else
+    echo -e "\e[36mcontroll will go to else condition\e[0m"
+
+fi
+echo "No condition met control out condition"
+exit 100;
+
+
+#==================================================
+
+for i in 10 22 ; do
+    echo " value if i : $if"
+done
