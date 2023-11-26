@@ -65,3 +65,6 @@ echo $*   # Prints all the arguments used.
 echo $@   # Prints all the arguments used.
 
 
+echo $? 
+echo "$?"
+echo '$?'
