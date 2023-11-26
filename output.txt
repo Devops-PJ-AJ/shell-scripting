@@ -1,0 +1,48 @@
+total 54
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  359 Nov 23 09:28 02-esc-sequence.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  611 Nov 23 09:28 01-shebang.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  711 Nov 23 09:28 07-exitCodes.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  912 Nov 23 09:28 06-special-vars.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  223 Nov 23 09:28 05-dynamyic-vars.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  590 Nov 23 09:28 04-variables.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  885 Nov 23 09:28 03-colors.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  200 Nov 23 09:28 08-quotes.sh*
+-rw-r--r-- 1 FAREAST+v-ajayjain 4096 1151 Nov 23 09:28 10-functions.sh
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096   86 Nov 23 09:28 09-read.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  220 Nov 23 09:28 11-exit.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  901 Nov 23 09:28 14.ifelse-syntax.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  790 Nov 23 09:28 13-conditions.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  852 Nov 23 09:28 12. redirectors.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  500 Nov 23 09:28 15-ifelse.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  555 Nov 23 09:28 16-loops.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  892 Nov 23 09:28 17-operators.sh*
+-rw-r--r-- 1 FAREAST+v-ajayjain 4096  415 Nov 23 09:28 README.md
+-rw-r--r-- 1 FAREAST+v-ajayjain 4096 1232 Nov 23 09:28 howToUseGit.md
+-rw-r--r-- 1 FAREAST+v-ajayjain 4096  471 Nov 23 09:28 agenda.md
+drwxr-xr-x 1 FAREAST+v-ajayjain 4096    0 Nov 23 09:28 roboshop/
+drwxr-xr-x 1 FAREAST+v-ajayjain 4096    0 Nov 23 11:49 Practice/
+-rw-r--r-- 1 FAREAST+v-ajayjain 4096    0 Nov 26 12:55 output.txt
+total 54
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  359 Nov 23 09:28 02-esc-sequence.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  611 Nov 23 09:28 01-shebang.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  711 Nov 23 09:28 07-exitCodes.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  912 Nov 23 09:28 06-special-vars.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  223 Nov 23 09:28 05-dynamyic-vars.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  590 Nov 23 09:28 04-variables.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  885 Nov 23 09:28 03-colors.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  200 Nov 23 09:28 08-quotes.sh*
+-rw-r--r-- 1 FAREAST+v-ajayjain 4096 1151 Nov 23 09:28 10-functions.sh
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096   86 Nov 23 09:28 09-read.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  220 Nov 23 09:28 11-exit.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  901 Nov 23 09:28 14.ifelse-syntax.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  790 Nov 23 09:28 13-conditions.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  852 Nov 23 09:28 12. redirectors.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  500 Nov 23 09:28 15-ifelse.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  555 Nov 23 09:28 16-loops.sh*
+-rwxr-xr-x 1 FAREAST+v-ajayjain 4096  892 Nov 23 09:28 17-operators.sh*
+-rw-r--r-- 1 FAREAST+v-ajayjain 4096  415 Nov 23 09:28 README.md
+-rw-r--r-- 1 FAREAST+v-ajayjain 4096 1232 Nov 23 09:28 howToUseGit.md
+-rw-r--r-- 1 FAREAST+v-ajayjain 4096  471 Nov 23 09:28 agenda.md
+drwxr-xr-x 1 FAREAST+v-ajayjain 4096    0 Nov 23 09:28 roboshop/
+drwxr-xr-x 1 FAREAST+v-ajayjain 4096    0 Nov 23 11:49 Practice/
+-rw-r--r-- 1 FAREAST+v-ajayjain 4096 1621 Nov 26 12:55 output.txt
